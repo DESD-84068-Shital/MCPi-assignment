@@ -1,0 +1,3 @@
+../Inc/eeprom.c:10:6:EEPROM_Init	1
+../Inc/eeprom.c:19:6:EEPROM_Write	2
+../Inc/eeprom.c:30:6:EEPROM_Read	2
